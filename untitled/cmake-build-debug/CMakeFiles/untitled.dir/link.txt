@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Sources/Memory.cpp.o CMakeFiles/untitled.dir/Sources/PagedArray.cpp.o CMakeFiles/untitled.dir/Sources/Reader.cpp.o CMakeFiles/untitled.dir/Sources/Sort.cpp.o -o untitled 

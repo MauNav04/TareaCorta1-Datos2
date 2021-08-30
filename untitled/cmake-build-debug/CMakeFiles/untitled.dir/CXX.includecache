@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Memory.h
+
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Reader.h
+iostream
+-
+fstream
+-
+cstdlib
+-
+list
+-
+Memory.h
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Memory.h
+
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Sort.h
+
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Sources/Reader.cpp
+../Headers/Reader.h
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Reader.h
+
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Sources/Sort.cpp
+iostream
+-
+../Headers/Sort.h
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Sort.h
+
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/main.cpp
+iostream
+-
+Headers/Memory.h
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Memory.h
+Headers/Reader.h
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Reader.h
+Headers/Sort.h
+/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Sort.h
+
