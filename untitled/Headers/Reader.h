@@ -13,16 +13,19 @@ using std::ifstream;
 #include <cstdlib> // for exit function
 #include <list>
 #include "Memory.h"
+#include <bits/stdc++.h>
 
 class Reader {
 public:
     std::ifstream indata;
     int num;
-    std::list<int> list;
+    std::list<char*> list;
     Memory * memory;
+
 
     Reader(Memory *memo);
     void read(std::string file);
+    void extract_vals(std::string str[], int length);
 };
 
 

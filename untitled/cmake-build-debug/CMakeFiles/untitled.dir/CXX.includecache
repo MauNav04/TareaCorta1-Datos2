@@ -19,17 +19,9 @@ list
 -
 Memory.h
 /home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Memory.h
-
-/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Sort.h
-
-/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Sources/Reader.cpp
-../Headers/Reader.h
-/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Reader.h
-
-/home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Sources/Sort.cpp
-iostream
+bits/stdc++.h
 -
-../Headers/Sort.h
+
 /home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/Headers/Sort.h
 
 /home/mauro/Documents/Documentos de la U/Semestre2-2021/Datos2/untitled/main.cpp
